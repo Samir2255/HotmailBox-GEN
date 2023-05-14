@@ -1,5 +1,5 @@
 {
-    "API_Key": "api_key here!",
+    "API_Key": "https://api.hotmailbox.me/mail/buy?apikey={api}&mailcode={hotmail}&quantity={10}",
     "Threads": 1
 }
    
